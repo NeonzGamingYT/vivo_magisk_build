@@ -2,7 +2,7 @@ name: Magisk Build
 
 on:
   push:
-    branches: [ master ]
+    branches: [ test ]
 
 jobs:
   build:
